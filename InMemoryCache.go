@@ -1,4 +1,4 @@
-package inmemorycache
+package cache
 
 type Cache struct {
 	items map[string]interface{}
